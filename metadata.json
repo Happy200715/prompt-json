@@ -1,0 +1,5 @@
+{
+  "name": "SnapPrompt JSON",
+  "description": "Convert photos into structured JSON prompts for AI workflows, metadata extraction, and automation.",
+  "requestFramePermissions": []
+}
